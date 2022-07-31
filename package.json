@@ -1,6 +1,6 @@
 {
-  "_from": "markdown-it-custom-attrs@^1.0.1",
-  "_id": "markdown-it-custom-attrs@1.0.1",
+  "_from": "markdown-it-custom-attrs@^1.0.2",
+  "_id": "markdown-it-custom-attrs@1.0.2",
   "_inBundle": false,
   "_location": "/markdown-it-custom-attrs",
   "_phantomChildren": {
@@ -9,18 +9,18 @@
   "_requested": {
     "type": "range",
     "registry": true,
-    "raw": "markdown-it-custom-attrs@^1.0.1",
+    "raw": "markdown-it-custom-attrs@^1.0.2",
     "name": "markdown-it-custom-attrs",
     "escapedName": "markdown-it-custom-attrs",
-    "rawSpec": "^1.0.1",
+    "rawSpec": "^1.0.2",
     "saveSpec": null,
-    "fetchSpec": "^1.0.1"
+    "fetchSpec": "^1.0.2"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.nlark.com/markdown-it-custom-attrs/download/markdown-it-custom-attrs-1.0.1.tgz",
-  "_spec": "markdown-it-custom-attrs@^1.0.1",
+  "_resolved": "https://registry.nlark.com/markdown-it-custom-attrs/download/markdown-it-custom-attrs-1.0.2.tgz",
+  "_spec": "markdown-it-custom-attrs@^1.0.2",
   "author": {
     "name": "harry"
   },
@@ -48,5 +48,5 @@
     "type": "git",
     "url": "git+https://github.com/blazeb2/markdown-it-custom-attrs.git"
   },
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
